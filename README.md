@@ -1,4 +1,4 @@
-## About Laravel
+## About Delete Record
 ~~~
 if(!function_exists('delete')){
     function delete(){
